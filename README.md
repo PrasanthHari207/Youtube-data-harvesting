@@ -76,8 +76,9 @@
 
 
 
-## User Guide
 ![GitHub Logo](https://github.com/PrasanthHari207/Youtube-data-harvesting/blob/main/streamlit.png)
+
+## User Guide
 #### Step 1. Enter the channel ID
 
 * Search **channel_id**, copy and **paste on the input box** and click the **store data in MongoDB** button.
