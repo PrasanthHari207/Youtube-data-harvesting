@@ -60,12 +60,7 @@
 *In essence, ETL is the process of gathering, preparing, and loading data from disparate sources into a centralized location for analysis and decision-making.
 
 
-
-
-
-
-
-### 5. E D A Process and Framework
+### E D A Process and Framework
 
 #### Access:
 
@@ -79,7 +74,7 @@
 
 * Finally, create a Dashboard by using Streamlit and give dropdown options on the Dashboard to the user and select a question from that menu to analyse the data and show the output in Dataframe Table and Bar chart.
 
-
+![GitHub Logo](./path/to/streamlit.png)
 ## User Guide
 
 #### Step 1. Enter the channel ID
