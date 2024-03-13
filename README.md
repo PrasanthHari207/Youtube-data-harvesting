@@ -74,9 +74,8 @@
 
 * Finally, create a Dashboard by using Streamlit and give dropdown options on the Dashboard to the user and select a question from that menu to analyse the data and show the output in Dataframe Table and Bar chart.
 
-![GitHub Logo](https://github.com/PrasanthHari207/Youtube-data-harvesting/blob/main/streamlit.png)
 ## User Guide
-
+![GitHub Logo](https://github.com/PrasanthHari207/Youtube-data-harvesting/blob/main/streamlit.png)
 #### Step 1. Enter the channel ID
 
 * Search **channel_id**, copy and **paste on the input box** and click the **store data in MongoDB** button.
