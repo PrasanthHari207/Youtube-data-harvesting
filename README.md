@@ -19,12 +19,11 @@
 
 ## Packages / Libraries need to be Installed
 
-* google-api-python-client,
-* pymongo,
-* postgreSQL,
-* pandas,
+* google-api-python-client.
+* pymongo.
+* postgreSQL.
+* pandas.
 * streamlit.
-* 
  
 ### Imported Libraries
 
